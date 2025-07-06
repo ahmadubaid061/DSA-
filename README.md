@@ -21,9 +21,11 @@ This repository contains my implementations of various data structures and algor
 ├── Arrays/
 ├── Searching algorithms/
 ├── Sorting Algorithms/
-├── LinkedLists/
+├── Singly LinkedLists/
+├── Doubly LinkedLists/
 ├── Stacks/
 ├── Queues/
+├── standard template library (stl)/
 ├── HashTables/
 ├── Trees/
 ├── Graphs/
