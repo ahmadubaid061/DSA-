@@ -29,6 +29,7 @@ This repository contains my implementations of various data structures and algor
 ├── HashTables/
 ├── Trees/
 ├── Graphs/
+├── Semester Project/
 └── README.md
 
 # Getting Started
