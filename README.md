@@ -19,6 +19,8 @@ This repository contains my implementations of various data structures and algor
 
 # Folder Structure
 ├── Arrays/
+├── Searching algorithms/
+├── Sorting Algorithms/
 ├── LinkedLists/
 ├── Stacks/
 ├── Queues/
