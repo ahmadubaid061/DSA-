@@ -38,7 +38,7 @@ This repository contains my implementations of various data structures and algor
 - Basic understanding of C++ programming and DSA concepts.
 # How to Use
 - Clone the repository:
-- git clone https://github.com/your-username/DSA-Spring-2025.git
+- git clone https://github.com/ahmadubaid061/DSA-Spring-2025.git
 - Navigate to the desired data structure folder.
 - Compile and run the C++ files using a compiler:
 - g++ filename.cpp -o output./output
